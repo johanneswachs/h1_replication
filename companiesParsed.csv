@@ -1,0 +1,503 @@
+companyName,id,url,companyOfficialName,offersBounties,state,resolvedReports,currency,facebook,avgBountyLower,avgBountyHigher,isIBB
+spotify,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjAxMA==,https://hackerone.com/spotify,Spotify,True,public_mode,864,usd,False,300,300,0
+maximum,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjQ1MA==,https://hackerone.com/maximum,Maximum,True,public_mode,251,usd,False,30,50,0
+lyst,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTYzMzQ=,https://hackerone.com/lyst,Lyst,True,public_mode,83,usd,False,100,150,0
+sixt,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDk3Nzk=,https://hackerone.com/sixt,Sixt GmbH & Co. Autovermietung KG,False,public_mode,115,usd,False,,,0
+aodocs,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDA4MTE=,https://hackerone.com/aodocs,AODocs,False,public_mode,5,usd,False,,,0
+flox,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjczOA==,https://hackerone.com/flox,Flox,True,public_mode,16,usd,False,25,25,0
+nearby,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNjU4,https://hackerone.com/nearby,Nearby Live,True,public_mode,18,usd,False,,,0
+hcl_software,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDM5Mjg=,https://hackerone.com/hcl_software,HCL Software Inc.,False,public_mode,19,usd,False,,,0
+avito,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTYxMTI=,https://hackerone.com/avito,Avito,False,public_mode,77,usd,False,,,0
+wp-api,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjk3,https://hackerone.com/wp-api,WP API,True,public_mode,4,usd,False,100,100,0
+bullionexchanges,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNzE0MA==,https://hackerone.com/bullionexchanges,Bullion Exchanges,True,public_mode,12,usd,False,,,0
+uber,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzE0,https://hackerone.com/uber,Uber,True,public_mode,1775,usd,False,500,750,0
+vulnerscom,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjg3NA==,https://hackerone.com/vulnerscom,vulners.com,False,public_mode,18,usd,False,,,0
+stopthehacker,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTY1,https://hackerone.com/stopthehacker,StopTheHacker,False,public_mode,54,usd,False,,,0
+koho,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDE2NTA=,https://hackerone.com/koho,Koho,False,public_mode,23,usd,False,,,0
+stripe,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTA5MzM=,https://hackerone.com/stripe,Stripe,True,public_mode,70,usd,False,500,500,0
+hyperledger,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjI1MjI=,https://hackerone.com/hyperledger,Hyperledger,True,public_mode,17,usd,False,200,200,0
+wordpress,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTU=,https://hackerone.com/wordpress,WordPress,True,public_mode,,usd,False,,,0
+joola-io,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTk4,https://hackerone.com/joola-io,joola.io,False,public_mode,4,usd,False,,,0
+factlink,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMw==,https://hackerone.com/factlink,Factlink,False,public_mode,17,usd,False,,,0
+logitech,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzI5NzI=,https://hackerone.com/logitech,Logitech,True,public_mode,531,usd,False,200,200,0
+cloudflare,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDE=,https://hackerone.com/cloudflare,Cloudflare Vulnerability Disclosure,False,public_mode,155,usd,False,,,0
+rebellion-defense,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDkyNTQ=,https://hackerone.com/rebellion-defense,Rebellion Defense,False,public_mode,13,usd,False,,,0
+kubernetes,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzkzODY=,https://hackerone.com/kubernetes,Kubernetes,True,public_mode,40,usd,False,200,250,0
+munzee,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNzAxNA==,https://hackerone.com/munzee,Munzee,True,public_mode,38,usd,False,,,0
+vkcom,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTI1NA==,https://hackerone.com/vkcom,VK.com,True,public_mode,843,usd,False,,,0
+sifchain,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTE4Nzc=,https://hackerone.com/sifchain,Sifchain,True,public_mode,14,usd,False,100,200,0
+pornhub,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvOTUy,https://hackerone.com/pornhub,Pornhub,True,public_mode,444,usd,False,,,0
+copper,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDMwMjA=,https://hackerone.com/copper,Copper,False,public_mode,,usd,False,,,0
+google,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjA1Mg==,https://hackerone.com/google,Google,,,,,False,,,0
+trade-republic,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTMwNDE=,https://hackerone.com/trade-republic,Trade Republic,False,public_mode,4,usd,False,,,0
+security,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTM=,https://hackerone.com/security,HackerOne,True,public_mode,504,usd,False,500,500,0
+topcoder,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDMzMzA=,https://hackerone.com/topcoder,Topcoder,False,public_mode,98,usd,False,,,0
+cakebet,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNzk1NA==,https://hackerone.com/cakebet,Cakebet,False,public_mode,15,usd,False,,,0
+tinder,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTAy,https://hackerone.com/tinder,Tinder,True,public_mode,88,usd,False,375,500,0
+harvest,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjM3,https://hackerone.com/harvest,Harvest,True,public_mode,232,usd,False,,,0
+hilton,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTA2MDI=,https://hackerone.com/hilton,Hilton,False,public_mode,45,usd,False,,,0
+liberapay,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjg0MTE=,https://hackerone.com/liberapay,Liberapay,True,public_mode,12,usd,False,50,50,0
+myetherwallet,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTMwNDQ=,https://hackerone.com/myetherwallet,MyEtherWallet,True,public_mode,5,usd,False,250,250,0
+wink_jq3al,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjEyOTE=,https://hackerone.com/wink_jq3al,WINK,True,public_mode,11,usd,False,100,100,0
+symbol,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDQwODY=,https://hackerone.com/symbol,Symbol,True,public_mode,1,usd,False,1000,1000,0
+global-payments,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTE5MjQ=,https://hackerone.com/global-payments,Global Payments,False,public_mode,75,usd,False,,,0
+enter,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTYz,https://hackerone.com/enter,Enter,True,public_mode,74,usd,False,50,50,0
+scopely,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTY3,https://hackerone.com/scopely,Scopely,True,public_mode,173,usd,False,500,750,0
+torproject,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTgwMA==,https://hackerone.com/torproject,Tor,True,public_mode,41,usd,False,200,250,0
+howaboutwe,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTc=,https://hackerone.com/howaboutwe,HowAboutWe,False,public_mode,9,usd,False,,,0
+trustpilot,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTc3MTY=,https://hackerone.com/trustpilot,Trustpilot,True,public_mode,120,usd,False,150,200,0
+anghami,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzA3OQ==,https://hackerone.com/anghami,Anghami,True,public_mode,24,usd,False,,,0
+bitwarden,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjEwMjQ=,https://hackerone.com/bitwarden,Bitwarden,False,public_mode,38,usd,False,,,0
+ovchipkaart,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjEyNA==,https://hackerone.com/ovchipkaart,OV-chipkaart,,,,,False,,,0
+mtn_group,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDE5MTk=,https://hackerone.com/mtn_group,MTN Group,False,public_mode,1971,usd,False,,,0
+twitter-algorithmic-bias,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTM4MTM=,https://hackerone.com/twitter-algorithmic-bias,Twitter Algorithmic Bias,True,public_mode,,usd,False,,,0
+paypal,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTkxNQ==,https://hackerone.com/paypal,PayPal,True,public_mode,1253,usd,False,1900,3200,0
+affirm,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjQ4ODM=,https://hackerone.com/affirm,Affirm,True,public_mode,38,usd,False,250,300,0
+qulture_rocks,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDE3NzI=,https://hackerone.com/qulture_rocks,Qulture.Rocks,False,public_mode,50,usd,False,,,0
+epicgames,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjMyMzM=,https://hackerone.com/epicgames,Epic Games,True,public_mode,519,usd,False,400,500,0
+h1-ctf,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDY3NTc=,https://hackerone.com/h1-ctf,h1-ctf,True,public_mode,146,usd,False,0,0,0
+iandunn-projects,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTYy,https://hackerone.com/iandunn-projects,Ian Dunn,True,public_mode,15,usd,False,50,50,0
+hubdia,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTg4,https://hackerone.com/hubdia,Hubdia,False,public_mode,11,usd,False,,,0
+parrot_sec,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjA0MjM=,https://hackerone.com/parrot_sec,Parrot Sec,False,public_mode,19,usd,False,,,0
+plaid,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTUzOTE=,https://hackerone.com/plaid,Plaid,True,public_mode,61,usd,False,150,225,0
+kindred_group,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTQwNDc=,https://hackerone.com/kindred_group,Kindred Group,True,public_mode,249,usd,False,150,300,0
+streak_com,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjI3NjM=,https://hackerone.com/streak_com,Streak,False,public_mode,18,usd,False,,,0
+wakatime,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjE4MDE=,https://hackerone.com/wakatime,WakaTime,False,public_mode,208,usd,False,,,0
+imgur,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNjM4,https://hackerone.com/imgur,Imgur,True,public_mode,188,usd,False,100,100,0
+alvosec,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTY0MjA=,https://hackerone.com/alvosec,Alvosec,True,public_mode,,usd,False,,,0
+upserve,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjE5ODE=,https://hackerone.com/upserve,Upserve ,True,public_mode,103,usd,False,250,500,0
+xero,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjE4,https://hackerone.com/xero,Xero,False,public_mode,144,usd,False,,,0
+moneystream,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDk=,https://hackerone.com/moneystream,MoneyStream,False,public_mode,42,usd,False,,,0
+discourse,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTY4OTM=,https://hackerone.com/discourse,Discourse,True,public_mode,115,usd,False,256,256,0
+john-deere,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDk3Mjg=,https://hackerone.com/john-deere,John Deere,False,public_mode,37,usd,False,,,0
+priceline,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTk=,https://hackerone.com/priceline,Priceline,True,public_mode,533,usd,False,250,250,0
+kaspersky,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjM3OQ==,https://hackerone.com/kaspersky,Kaspersky,True,public_mode,244,usd,False,,,0
+trycourier,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDc4NzY=,https://hackerone.com/trycourier,Courier,False,public_mode,42,usd,False,,,0
+localizejs,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTQxMjI=,https://hackerone.com/localizejs,Localize,True,public_mode,74,usd,False,50,75,0
+chaturbate,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzA0NzU=,https://hackerone.com/chaturbate,Chaturbate,True,public_mode,187,usd,False,150,200,0
+allegro,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzc2NjA=,https://hackerone.com/allegro,Allegro,True,public_mode,34,usd,False,400,500,0
+reddapi,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTIw,https://hackerone.com/reddapi,ReddAPI,False,public_mode,63,usd,False,,,0
+gratipay,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTg2OA==,https://hackerone.com/gratipay,Gratipay,True,public_mode,76,usd,False,,,0
+rbkmoney,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTgwNzM=,https://hackerone.com/rbkmoney,RBKmoney,False,public_mode,,usd,False,,,0
+vanmoof,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTMxMjY=,https://hackerone.com/vanmoof,VanMoof,False,public_mode,4,usd,False,,,0
+zebra_vdp,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDg5MjM=,https://hackerone.com/zebra_vdp,Zebra VDP,False,public_mode,76,usd,False,,,0
+cs_money,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDgzMTE=,https://hackerone.com/cs_money,CS Money,True,public_mode,85,usd,False,200,200,0
+facebook,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDEyODY=,https://hackerone.com/facebook,Facebook,True,public_mode,,usd,True,,,0
+dib-vdp-pilot,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTE5NjY=,https://hackerone.com/dib-vdp-pilot,DIB-VDP Pilot,False,public_mode,158,usd,False,,,0
+twitter,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNjE=,https://hackerone.com/twitter,Twitter,True,public_mode,1378,usd,False,560,560,0
+central-security-project,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMzU1MjQ=,https://hackerone.com/central-security-project,Central Security Project,False,public_mode,10,usd,False,,,0
+panther_labs,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDE2MjY=,https://hackerone.com/panther_labs,Panther Labs,True,public_mode,24,usd,False,100,100,0
+rghost,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDQ5NTY=,https://hackerone.com/rghost,RGhost,False,public_mode,16,usd,False,,,0
+tomochain,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzc0Njc=,https://hackerone.com/tomochain,TomoChain,True,public_mode,43,usd,False,100,200,0
+snowplow,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTM4Njc=,https://hackerone.com/snowplow,Snowplow,False,public_mode,3,usd,False,,,0
+localtapiola,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvODQxNg==,https://hackerone.com/localtapiola,LocalTapiola,True,public_mode,289,usd,False,100,200,0
+bumble,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjE1NTQ=,https://hackerone.com/bumble,Bumble,True,public_mode,235,usd,False,200,280,0
+magisto,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDM3MTg=,https://hackerone.com/magisto,Magisto,True,public_mode,92,usd,False,300,400,0
+owncloud,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzA1OQ==,https://hackerone.com/owncloud,ownCloud,True,public_mode,243,usd,False,150,250,0
+flock,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzQ0OTM=,https://hackerone.com/flock,Flock,,,,,False,,,0
+respondly,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTI4,https://hackerone.com/respondly,Respondly,False,public_mode,20,usd,False,,,0
+bitaccess,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvODYxOQ==,https://hackerone.com/bitaccess,bitaccess,True,public_mode,,usd,False,50,50,0
+zenly,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjg1NDU=,https://hackerone.com/zenly,Zenly,True,public_mode,41,usd,False,750,750,0
+yahoo,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTk=,https://hackerone.com/yahoo,Yahoo!,True,public_mode,10595,usd,False,500,500,0
+goldmansachs,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTcwOA==,https://hackerone.com/goldmansachs,Goldman Sachs,True,public_mode,118,usd,False,250,250,0
+gmelius,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDM0MzI=,https://hackerone.com/gmelius,Gmelius,False,public_mode,22,usd,False,,,0
+airbnb,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTA4MA==,https://hackerone.com/airbnb,Airbnb,True,public_mode,935,usd,False,500,750,0
+drchrono,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTQ5Mg==,https://hackerone.com/drchrono,drchrono,True,public_mode,343,usd,False,,,0
+weblate,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTk0Njg=,https://hackerone.com/weblate,Weblate,False,public_mode,131,usd,False,,,0
+msdos,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTE1,https://hackerone.com/msdos,MS-DOS,True,public_mode,13,usd,False,,,0
+datastax,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzk0ODc=,https://hackerone.com/datastax,DataStax,True,public_mode,89,usd,False,200,500,0
+postmates,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjYwNw==,https://hackerone.com/postmates,Postmates,True,public_mode,129,usd,False,250,250,0
+dropbox,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDYx,https://hackerone.com/dropbox,Dropbox,True,public_mode,693,usd,False,216,512,0
+nintendo,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTY2MzQ=,https://hackerone.com/nintendo,Nintendo,True,public_mode,83,usd,False,1800,2048,0
+mainwp,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvODg1NQ==,https://hackerone.com/mainwp,MainWP,True,public_mode,74,usd,False,,,0
+nubank,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTAzNDg=,https://hackerone.com/nubank,Nubank,False,public_mode,23,usd,False,,,0
+nodejs-ecosystem,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjM5NDk=,https://hackerone.com/nodejs-ecosystem,Node.js third-party modules,True,public_mode,306,usd,False,,,0
+zivver,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDkwNzI=,https://hackerone.com/zivver,Zivver,False,public_mode,17,usd,False,,,0
+cobinhood,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjY5NTM=,https://hackerone.com/cobinhood,Cobinhood,True,public_mode,16,usd,False,100,100,0
+newrelic,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTcwMTE=,https://hackerone.com/newrelic,New Relic,True,public_mode,491,usd,False,505,555,0
+cedars-sinai,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDYyOTM=,https://hackerone.com/cedars-sinai,Cedars-Sinai,False,public_mode,51,usd,False,,,0
+figma,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDg3Mzk=,https://hackerone.com/figma,Figma,True,public_mode,75,usd,False,300,400,0
+glassdoor,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjA0,https://hackerone.com/glassdoor,Glassdoor,True,public_mode,738,usd,False,400,500,0
+on,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTA5Mjg=,https://hackerone.com/on,On ,False,public_mode,13,usd,False,,,0
+secret,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDU=,https://hackerone.com/secret,Secret,False,public_mode,76,usd,False,,,0
+jsdelivr,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjY2,https://hackerone.com/jsdelivr,jsDelivr,False,public_mode,10,usd,False,,,0
+olx,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvODE0Ng==,https://hackerone.com/olx,OLX,False,public_mode,380,usd,False,,,0
+marriott,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzA5OTQ=,https://hackerone.com/marriott,Marriott Bug Bounty Program,True,public_mode,533,usd,False,200,300,0
+chorus_jg4l2,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDQzNDI=,https://hackerone.com/chorus_jg4l2,Chorus,False,public_mode,9,usd,False,,,0
+automattic,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTEx,https://hackerone.com/automattic,Automattic,True,public_mode,,usd,False,,,0
+worklytics,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDA0OTk=,https://hackerone.com/worklytics,Worklytics,False,public_mode,10,usd,False,,,0
+lyft,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTc5Mg==,https://hackerone.com/lyft,Lyft,,,,,False,,,0
+concretecms,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNjA=,https://hackerone.com/concretecms,Concrete CMS,False,public_mode,271,usd,False,,,0
+arkadiyt-projects,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjk4MzM=,https://hackerone.com/arkadiyt-projects,arkadiyt-projects,False,public_mode,0,usd,False,,,0
+omise,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjEwNDU=,https://hackerone.com/omise,Omise,True,public_mode,132,usd,False,100,100,0
+stripo,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDIzNjg=,https://hackerone.com/stripo,Stripo Inc,False,public_mode,615,usd,False,,,0
+ninja-kiwi,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTE2MjI=,https://hackerone.com/ninja-kiwi,Ninja Kiwi,True,public_mode,17,usd,False,200,200,0
+flickr,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzI5ODI=,https://hackerone.com/flickr,Flickr,True,public_mode,76,usd,False,200,250,0
+btfs,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDU3MzU=,https://hackerone.com/btfs,BTFS,True,public_mode,5,usd,False,100,100,0
+celo,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDUxNDM=,https://hackerone.com/celo,Celo,True,public_mode,25,usd,False,200,250,0
+consensys,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDAxNjA=,https://hackerone.com/consensys,Consensys,True,public_mode,24,usd,False,500,500,0
+goodrx,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTY4NA==,https://hackerone.com/goodrx,GoodRx,True,public_mode,140,usd,False,250,300,0
+coinbase,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTA0,https://hackerone.com/coinbase,Coinbase,True,public_mode,569,usd,False,100,200,0
+informatica,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDUz,https://hackerone.com/informatica,Informatica,False,public_mode,455,usd,False,,,0
+shopify-scripts,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTU2Njg=,https://hackerone.com/shopify-scripts,shopify-scripts,True,public_mode,353,usd,False,800,800,0
+shipt,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTkyNjQ=,https://hackerone.com/shipt,Shipt,True,public_mode,122,usd,False,,,0
+digitalsellz,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjkz,https://hackerone.com/digitalsellz,DigitalSellz,False,public_mode,29,usd,False,,,0
+nokogiri,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTcxMQ==,https://hackerone.com/nokogiri,Nokogiri,False,public_mode,7,usd,False,,,0
+federal-reserve,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTAxMDk=,https://hackerone.com/federal-reserve,Federal Reserve,False,public_mode,50,usd,False,,,0
+boozt,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTQ1Mw==,https://hackerone.com/boozt,Boozt Fashion AB,True,public_mode,172,usd,False,100,100,0
+proctorio,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTI0ODk=,https://hackerone.com/proctorio,Proctorio,False,public_mode,,usd,False,,,0
+certly,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNjc5,https://hackerone.com/certly,Certly,True,public_mode,27,usd,False,,,0
+doppler,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDQ1MTU=,https://hackerone.com/doppler,Doppler,False,public_mode,40,usd,False,,,0
+palo_alto_software,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDIzMjc=,https://hackerone.com/palo_alto_software,Palo Alto Software,False,public_mode,209,usd,False,,,0
+curl,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzU2NjM=,https://hackerone.com/curl,curl,True,public_mode,22,usd,False,700,800,0
+redtube,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjE4MzE=,https://hackerone.com/redtube,Redtube,True,public_mode,,usd,False,,,0
+drive_net_inc,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTQ2MzM=,https://hackerone.com/drive_net_inc,"DRIVE.NET, Inc.",False,public_mode,39,usd,False,,,0
+libsass,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjI1MA==,https://hackerone.com/libsass,LibSass,False,public_mode,27,usd,False,,,0
+semrush,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTU5NjY=,https://hackerone.com/semrush,Semrush,True,public_mode,552,usd,False,100,150,0
+equifax,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTA0NA==,https://hackerone.com/equifax,Equifax,False,public_mode,119,usd,False,,,0
+mycrypto,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMjI3NTA=,https://hackerone.com/mycrypto,MyCrypto,False,public_mode,33,usd,False,,,0
+chime,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDg5ODM=,https://hackerone.com/chime,Chime,True,public_mode,57,usd,False,100,100,0
+lumiradx,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTIwNTc=,https://hackerone.com/lumiradx,LumiraDx,False,public_mode,24,usd,False,,,0
+semmle,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjcyNjQ=,https://hackerone.com/semmle,Semmle,True,public_mode,27,usd,False,150,150,0
+lemlist,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDQwNDU=,https://hackerone.com/lemlist,lemlist,False,public_mode,53,usd,False,,,0
+mobilevikings,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNjA3,https://hackerone.com/mobilevikings,Mobile Vikings,False,public_mode,74,usd,False,,,0
+openmage,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDY1MDI=,https://hackerone.com/openmage,OpenMage,False,public_mode,,usd,False,,,0
+magic-bbp,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzU3MTM=,https://hackerone.com/magic-bbp,Magic,True,public_mode,11,usd,False,100,100,0
+filezilla,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzY3MTM=,https://hackerone.com/filezilla,FileZilla,True,public_mode,17,usd,False,283,364,0
+bitso,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTkz,https://hackerone.com/bitso,Bitso,True,public_mode,116,usd,False,100,100,0
+uzbey,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjMw,https://hackerone.com/uzbey,Uzbey,True,public_mode,27,usd,False,,,0
+binary_cashier,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNzEzNw==,https://hackerone.com/binary_cashier,Binary.com Cashier,True,public_mode,5,usd,False,50,50,0
+earny,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDQxNjM=,https://hackerone.com/earny,Earny,False,public_mode,7,usd,False,,,0
+bmwgroup,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzk4MzM=,https://hackerone.com/bmwgroup,BMW Group,True,public_mode,,usd,False,,,0
+oppo,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDU5MDc=,https://hackerone.com/oppo,OPPO,True,public_mode,397,usd,False,60,70,0
+pingidentity,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjUxODg=,https://hackerone.com/pingidentity,Ping Identity,True,public_mode,55,usd,False,300,300,0
+nutanix,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMTY4ODc=,https://hackerone.com/nutanix,Nutanix,False,public_mode,109,usd,False,,,0
+companyhub,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDM3Mjc=,https://hackerone.com/companyhub,CompanyHub,False,public_mode,51,usd,False,,,0
+fransvisitsvegas,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjI2NDk=,https://hackerone.com/fransvisitsvegas,Frans Visits Vegas,False,public_mode,,usd,False,,,0
+nextcloud,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTMyOTE=,https://hackerone.com/nextcloud,Nextcloud,True,public_mode,328,usd,False,100,150,0
+quantopian,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTUyMzA=,https://hackerone.com/quantopian,Quantopian,True,public_mode,170,usd,False,300,450,0
+owox,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTI2MzM=,https://hackerone.com/owox,"OWOX, Inc.",False,public_mode,77,usd,False,,,0
+faraday_inc,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDU2NzU=,https://hackerone.com/faraday_inc,"Faraday, Inc.",True,public_mode,18,usd,False,75,75,0
+livestream,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNzkxNQ==,https://hackerone.com/livestream,Livestream,True,public_mode,137,usd,False,350,500,0
+deliveroo,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTE3ODg=,https://hackerone.com/deliveroo,Deliveroo,True,public_mode,136,usd,False,300,500,0
+matic-network,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDkwNDg=,https://hackerone.com/matic-network,Matic Network,True,public_mode,8,usd,False,2000,2000,0
+vimeo,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTY=,https://hackerone.com/vimeo,Vimeo,True,public_mode,702,usd,False,300,500,0
+unikrn,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjY3Mg==,https://hackerone.com/unikrn,Unikrn,True,public_mode,205,usd,False,40,50,0
+ed,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjQzNDI=,https://hackerone.com/ed,Ed,False,public_mode,11,usd,False,,,0
+vend_vdp,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMjA1NDU=,https://hackerone.com/vend_vdp,Vend VDP,False,public_mode,107,usd,False,,,0
+kiwi-ki,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzA1Ng==,https://hackerone.com/kiwi-ki,KIWI.KI GmbH,True,public_mode,26,usd,False,,,0
+casper,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTU2NzM=,https://hackerone.com/casper,Casper,True,public_mode,111,usd,False,200,250,0
+nominet,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTI1OTU=,https://hackerone.com/nominet,Nominet,False,public_mode,9,usd,False,,,0
+dropcontact,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDk1Mzg=,https://hackerone.com/dropcontact,Dropcontact,False,public_mode,22,usd,False,,,0
+picsart,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDQxMzQ=,https://hackerone.com/picsart,PicsArt,False,public_mode,23,usd,False,,,0
+cosmos,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjQ2MjY=,https://hackerone.com/cosmos,Cosmos,True,public_mode,,usd,False,,,0
+blockchain,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDI0,https://hackerone.com/blockchain,Blockchain,True,public_mode,88,usd,False,100,100,0
+youporn,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTY4ODU=,https://hackerone.com/youporn,YouPorn,True,public_mode,,usd,False,,,0
+yoti,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjE3OTU=,https://hackerone.com/yoti,Yoti,True,public_mode,70,usd,False,150,350,0
+mendix,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDgyODE=,https://hackerone.com/mendix,Mendix,False,public_mode,55,usd,False,,,0
+diem,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDA0Mjg=,https://hackerone.com/diem,Diem,True,public_mode,12,usd,False,500,500,0
+gatecoin,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjE1NDY=,https://hackerone.com/gatecoin,Gatecoin,True,public_mode,28,usd,False,,,0
+pillarproject,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzUzNTA=,https://hackerone.com/pillarproject,Pillar Project Worldwide Limited,True,public_mode,54,usd,False,250,500,0
+mcuboot,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTI0ODQ=,https://hackerone.com/mcuboot,MCUboot,False,public_mode,2,usd,False,,,0
+rubygems,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvODIxMg==,https://hackerone.com/rubygems,RubyGems,True,public_mode,69,usd,False,500,500,0
+alibaba,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDY1ODE=,https://hackerone.com/alibaba,Alibaba BBP,True,public_mode,266,usd,False,150,150,0
+websummit,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTE5NzM=,https://hackerone.com/websummit,WebSummit,True,public_mode,28,usd,False,40,40,0
+mixmax,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTg0ODM=,https://hackerone.com/mixmax,Mixmax,True,public_mode,85,usd,False,1000,1000,0
+nodejs,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjI5ODQ=,https://hackerone.com/nodejs,Node.js,True,public_mode,39,usd,False,250,250,0
+investnext,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDIwMDg=,https://hackerone.com/investnext,InvestNext,False,public_mode,4,usd,False,,,0
+alibaba_vdp,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vODI1Mg==,https://hackerone.com/alibaba_vdp,Alibaba VDP,False,public_mode,433,usd,False,,,0
+auvik,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTQ4MDg=,https://hackerone.com/auvik,Auvik,False,public_mode,3,usd,False,,,0
+stagingdoteverydotorg,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDU5MDA=,https://hackerone.com/stagingdoteverydotorg,Staging.every.org,False,public_mode,41,usd,False,,,0
+lowes_vdp,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDU3ODc=,https://hackerone.com/lowes_vdp,Lowe's Response,False,public_mode,83,usd,False,,,0
+ok,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTc4Mg==,https://hackerone.com/ok,ok.ru,True,public_mode,329,usd,False,,,0
+lark_technologies,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDA2NzQ=,https://hackerone.com/lark_technologies,Lark Technologies,True,public_mode,260,usd,False,500,500,0
+django,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjM=,https://hackerone.com/django,Django,True,public_mode,14,usd,False,500,500,0
+chromium,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTgyNg==,https://hackerone.com/chromium,Chrome,,,,,False,,,0
+coalition,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjQ4NDY=,https://hackerone.com/coalition,"Coalition, Inc.",False,public_mode,13,usd,False,,,0
+codeigniter,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTAxMw==,https://hackerone.com/codeigniter,CodeIgniter,False,public_mode,16,usd,False,,,0
+replyify,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDA0Njk=,https://hackerone.com/replyify,Replyify,False,public_mode,37,usd,False,,,0
+tomtom,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMzk0MjQ=,https://hackerone.com/tomtom,TomTom,False,public_mode,238,usd,False,,,0
+solidus,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDA3NTY=,https://hackerone.com/solidus,Solidus,False,public_mode,8,usd,False,,,0
+blockio,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTA0,https://hackerone.com/blockio,Block.io,True,public_mode,42,usd,False,,,0
+linkedin,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTg=,https://hackerone.com/linkedin,LinkedIn,,,,,False,,,0
+mtb,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTE5Njg=,https://hackerone.com/mtb,M&T Bank,False,public_mode,19,usd,False,,,0
+blockimmo,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzE3NDI=,https://hackerone.com/blockimmo,blockimmo,True,public_mode,1,usd,False,250,250,0
+vlc_h1c,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzY4NjM=,https://hackerone.com/vlc_h1c,VLC (European Commission - DIGIT),True,public_mode,41,usd,False,286,1120,0
+tencent,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDc3NzY=,https://hackerone.com/tencent,Tencent,True,public_mode,,usd,False,,,0
+homebargains,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzExNQ==,https://hackerone.com/homebargains,Home Bargains,True,public_mode,35,usd,False,,,0
+flutteruki,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjQ1ODc=,https://hackerone.com/flutteruki,Flutter UK&I,True,public_mode,271,usd,False,300,300,0
+starling_bank,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMzc3NzQ=,https://hackerone.com/starling_bank,Starling Bank Limited,False,public_mode,24,usd,False,,,0
+adobe,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMzQ3,https://hackerone.com/adobe,Adobe,True,public_mode,5444,usd,False,,,0
+soleo,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzMzOTI=,https://hackerone.com/soleo,Soleo,,,,,False,,,0
+globaleaks,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTY2MA==,https://hackerone.com/globaleaks,GlobaLeaks,False,public_mode,15,usd,False,,,0
+portswigger,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTUyNTI=,https://hackerone.com/portswigger,PortSwigger Web Security,True,public_mode,52,usd,False,350,350,0
+50m-ctf,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMzg0ODk=,https://hackerone.com/50m-ctf,50m-ctf,False,public_mode,13,usd,False,,,0
+glovo,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTE4MTU=,https://hackerone.com/glovo,Glovo,False,public_mode,37,usd,False,,,0
+cuvva,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjA2ODA=,https://hackerone.com/cuvva,Cuvva,False,public_mode,22,usd,False,,,0
+mapsmarker_com_e_u,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTY3ODA=,https://hackerone.com/mapsmarker_com_e_u,MapsMarker.com e.U.,False,public_mode,60,usd,False,,,0
+zego,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDk3OTc=,https://hackerone.com/zego,Zego,False,public_mode,17,usd,False,,,0
+capital-one,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMzY1Njk=,https://hackerone.com/capital-one,Capital One,False,public_mode,105,usd,False,,,0
+oneweb,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTM3MjQ=,https://hackerone.com/oneweb,OneWeb,False,public_mode,14,usd,False,,,0
+irccloud,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTQw,https://hackerone.com/irccloud,IRCCloud,True,public_mode,196,usd,False,100,100,0
+o1-labs,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDg5ODQ=,https://hackerone.com/o1-labs,O1 Labs,True,public_mode,13,usd,False,2000,2000,0
+xvideos,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTA0NzA=,https://hackerone.com/xvideos,XVIDEOS,True,public_mode,66,usd,False,300,300,0
+ibb,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTQzNDk=,https://hackerone.com/ibb,Internet Bug Bounty,True,public_mode,683,usd,False,500,750,0
+trafficfactory,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTA0NjY=,https://hackerone.com/trafficfactory,Traffic Factory,True,public_mode,34,usd,False,100,100,0
+coursera,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTUxNg==,https://hackerone.com/coursera,Coursera,False,public_mode,151,usd,False,,,0
+remitano,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzU1NDk=,https://hackerone.com/remitano,Remitano,True,public_mode,47,usd,False,100,100,0
+kryptor,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTI1OTE=,https://hackerone.com/kryptor,Kryptor,False,public_mode,1,usd,False,,,0
+stellar,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjAyODc=,https://hackerone.com/stellar,Stellar.org,False,public_mode,35,usd,False,,,0
+eslint,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzE3NTI=,https://hackerone.com/eslint,ESLint,False,public_mode,5,usd,False,,,0
+ui,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvODAw,https://hackerone.com/ui,Ubiquiti Inc.,True,public_mode,1184,usd,False,150,250,0
+bithunt,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNjgwMQ==,https://hackerone.com/bithunt,BitHunt,False,public_mode,11,usd,False,,,0
+showmax,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTYxNTk=,https://hackerone.com/showmax,Showmax,True,public_mode,173,usd,False,150,200,0
+smtp2go-vdp,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDg3ODE=,https://hackerone.com/smtp2go-vdp,SMTP2GO,False,public_mode,30,usd,False,,,0
+rocket_chat,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTk4NTg=,https://hackerone.com/rocket_chat,Rocket.Chat,False,public_mode,125,usd,False,,,0
+coda_bbp,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzkxNDc=,https://hackerone.com/coda_bbp,Coda,True,public_mode,43,usd,False,150,150,0
+mobisystems_ltd,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDMyODU=,https://hackerone.com/mobisystems_ltd,MobiSystems Ltd.,False,public_mode,40,usd,False,,,0
+ford,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMzU4MTI=,https://hackerone.com/ford,Ford,False,public_mode,1898,usd,False,,,0
+gener8,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDU5ODY=,https://hackerone.com/gener8,Gener8,False,public_mode,30,usd,False,,,0
+citrix,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTA2MzE=,https://hackerone.com/citrix,Citrix Systems,True,public_mode,108,usd,False,100,100,0
+socusoft,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzI3ODc=,https://hackerone.com/socusoft,Socusoft,,,,,False,,,0
+phabricator,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTg=,https://hackerone.com/phabricator,Phabricator,True,public_mode,49,usd,False,300,300,0
+valve,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjMzNjM=,https://hackerone.com/valve,Valve,True,public_mode,823,usd,False,750,750,0
+insulet_corporation,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMzQ3ODQ=,https://hackerone.com/insulet_corporation,Insulet Corporation,False,public_mode,,usd,False,,,0
+monolith,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzgxMDg=,https://hackerone.com/monolith,Monolith,True,public_mode,7,usd,False,1500,1500,0
+homebrew,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTkzOTk=,https://hackerone.com/homebrew,Homebrew,False,public_mode,19,usd,False,,,0
+passhash,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjU1NzA=,https://hackerone.com/passhash,passhash,False,public_mode,1,usd,False,,,0
+matomo,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTkyNQ==,https://hackerone.com/matomo,Matomo,True,public_mode,137,usd,False,222,242,0
+creditkarma,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzM2MTY=,https://hackerone.com/creditkarma,Credit Karma,True,public_mode,54,usd,False,250,500,0
+amitree_inc,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDA2Mzc=,https://hackerone.com/amitree_inc,Amitree Inc,False,public_mode,22,usd,False,,,0
+peoplecert,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTE4MTY=,https://hackerone.com/peoplecert,Peoplecert,False,public_mode,14,usd,False,,,0
+drugs_com,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTIzNDA=,https://hackerone.com/drugs_com,Drugs.com,False,public_mode,53,usd,False,,,0
+withinsecurity,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNzEwOQ==,https://hackerone.com/withinsecurity,withinsecurity,True,public_mode,8,usd,False,,,0
+crowdstrike,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjUxNzI=,https://hackerone.com/crowdstrike,Crowdstrike,True,public_mode,,usd,False,,,0
+open-xchange,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvODkwNg==,https://hackerone.com/open-xchange,Open-Xchange,True,public_mode,406,usd,False,300,400,0
+teradici,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjAwNTE=,https://hackerone.com/teradici,Teradici,True,public_mode,23,usd,False,500,500,0
+urbandictionary,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjA3,https://hackerone.com/urbandictionary,Urban Dictionary,True,public_mode,102,usd,False,,,0
+zendesk,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjA1,https://hackerone.com/zendesk,Zendesk,True,public_mode,567,usd,False,100,100,0
+redact,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzE4MDc=,https://hackerone.com/redact,██████,,,,,False,,,0
+endless_group,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzcwMzg=,https://hackerone.com/endless_group,Endless Group,False,public_mode,59,usd,False,,,0
+github-security-lab,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDUxNDA=,https://hackerone.com/github-security-lab,GitHub Security Lab,True,public_mode,0,usd,False,1800,1800,0
+pubg,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDQ0OTE=,https://hackerone.com/pubg,PUBG,False,public_mode,53,usd,False,,,0
+shopify,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTM4Mg==,https://hackerone.com/shopify,Shopify,True,public_mode,1311,usd,False,500,800,0
+fetlife,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNjgyMA==,https://hackerone.com/fetlife,FetLife,True,public_mode,190,usd,False,,,0
+curve,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzk4Mzg=,https://hackerone.com/curve,Curve,True,public_mode,,usd,False,300,500,0
+monzo,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTI0Njc=,https://hackerone.com/monzo,Monzo,False,public_mode,11,usd,False,,,0
+algolia,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDQz,https://hackerone.com/algolia,Algolia,True,public_mode,216,usd,False,100,100,0
+upchieve,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTI1ODk=,https://hackerone.com/upchieve,UPchieve,False,public_mode,14,usd,False,,,0
+infogram,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjE3NDU=,https://hackerone.com/infogram,Infogram,False,public_mode,264,usd,False,,,0
+keybase,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjgwOQ==,https://hackerone.com/keybase,Keybase,True,public_mode,137,usd,False,250,250,0
+forescout_technologies,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzk0ODk=,https://hackerone.com/forescout_technologies,ForeScout Technologies,True,public_mode,60,usd,False,500,1000,0
+emoney-advisor,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTA2OTg=,https://hackerone.com/emoney-advisor,eMoney Advisor,False,public_mode,5,usd,False,,,0
+gsa_bbp,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTA1OTI=,https://hackerone.com/gsa_bbp,GSA Bounty,True,public_mode,169,usd,False,300,300,0
+cirrusinsight,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDU5NDM=,https://hackerone.com/cirrusinsight,Cirrus Insight,False,public_mode,61,usd,False,,,0
+thomsonreuters-public,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDM5MjM=,https://hackerone.com/thomsonreuters-public,Thomson Reuters,False,public_mode,224,usd,False,,,0
+sweatco_ltd,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzQ0MDE=,https://hackerone.com/sweatco_ltd,Sweatco Ltd,False,public_mode,10,usd,False,,,0
+makerdao_bbp,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzgwNjU=,https://hackerone.com/makerdao_bbp,BlockDev Sp. Z o.o,True,public_mode,20,usd,False,375,750,0
+zaption,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNjk1,https://hackerone.com/zaption,Zaption,False,public_mode,58,usd,False,,,0
+overloop,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDI0MjY=,https://hackerone.com/overloop,Overloop,False,public_mode,51,usd,False,,,0
+watson_group,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDgzNTQ=,https://hackerone.com/watson_group,A.S. Watson Group ,True,public_mode,66,usd,False,250,250,0
+leaseweb,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNzc0Nw==,https://hackerone.com/leaseweb,LeaseWeb,True,public_mode,71,usd,False,,,0
+status_im,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzU5Mjk=,https://hackerone.com/status_im,Status.im,True,public_mode,44,usd,False,250,250,0
+spell,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzc2MzI=,https://hackerone.com/spell,Spell,False,public_mode,27,usd,False,,,0
+r3,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDU3MDE=,https://hackerone.com/r3,R3,False,public_mode,8,usd,False,,,0
+bohemia,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTgzNjI=,https://hackerone.com/bohemia,BOHEMIA INTERACTIVE a.s.,True,public_mode,163,usd,False,70,80,0
+evernote,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDQyMTE=,https://hackerone.com/evernote,Evernote,True,public_mode,29,usd,False,300,300,0
+mediamarktsaturn,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMjUxNzM=,https://hackerone.com/mediamarktsaturn,MediaMarktSaturn,False,public_mode,145,usd,False,,,0
+delight_im,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjE5NTM=,https://hackerone.com/delight_im,delight.im,False,public_mode,15,usd,False,,,0
+brave,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTU2ODg=,https://hackerone.com/brave,Brave Software,True,public_mode,225,usd,False,100,100,0
+gsa_vdp,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTA1NTM=,https://hackerone.com/gsa_vdp,U.S. General Services Administration,False,public_mode,65,usd,False,,,0
+myndr,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDQ2MTI=,https://hackerone.com/myndr,Myndr,False,public_mode,26,usd,False,,,0
+secnews,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTM0MTc=,https://hackerone.com/secnews,SecNews,True,public_mode,11,usd,False,250,250,0
+playstation,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDQ4Nzk=,https://hackerone.com/playstation,PlayStation,True,public_mode,265,usd,False,400,400,0
+gitlab,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjY0,https://hackerone.com/gitlab,GitLab,True,public_mode,913,usd,False,1000,1000,0
+railto,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMjY2MDI=,https://hackerone.com/railto,Railto LLC,False,public_mode,3,usd,False,,,0
+rockset,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDk1MzI=,https://hackerone.com/rockset,Rockset,False,public_mode,14,usd,False,,,0
+nordsecurity,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTcxNzM=,https://hackerone.com/nordsecurity,Nord Security,True,public_mode,149,usd,False,,,0
+pushwoosh,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTI5NDY=,https://hackerone.com/pushwoosh,Pushwoosh,False,public_mode,75,usd,False,,,0
+securitize,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTIxODg=,https://hackerone.com/securitize,Securitize,True,public_mode,5,usd,False,50,50,0
+trint,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMjE3NDk=,https://hackerone.com/trint,Trint Ltd,False,public_mode,39,usd,False,,,0
+airtable,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTA2OQ==,https://hackerone.com/airtable,Airtable,True,public_mode,199,usd,False,100,100,0
+enjin,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTYzODg=,https://hackerone.com/enjin,Enjin,True,public_mode,22,usd,False,60,60,0
+lob,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjc3Nzg=,https://hackerone.com/lob,Lob,True,public_mode,48,usd,False,200,500,0
+epam,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTMyMTY=,https://hackerone.com/epam,EPAM,False,public_mode,27,usd,False,,,0
+hubspot,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTAxMTE=,https://hackerone.com/hubspot,HubSpot,,,,,False,,,0
+basecamp,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNjc=,https://hackerone.com/basecamp,Basecamp,True,public_mode,254,usd,False,200,250,0
+checkout,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTAxNTg=,https://hackerone.com/checkout,Checkout ,False,public_mode,3,usd,False,,,0
+apitest,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTA1NDM=,https://hackerone.com/apitest,APITest.IO,False,public_mode,131,usd,False,,,0
+deptofdefense,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMTYwNjQ=,https://hackerone.com/deptofdefense,U.S. Dept Of Defense,False,public_mode,18250,usd,False,,,0
+lifeomic,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjQwMTk=,https://hackerone.com/lifeomic,LifeOmic,True,public_mode,83,usd,False,200,500,0
+fantasytote,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTI3MDc=,https://hackerone.com/fantasytote,FantasyTote,False,public_mode,32,usd,False,,,0
+ratelimited,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjY4NjA=,https://hackerone.com/ratelimited,RATELIMITED,False,public_mode,176,usd,False,,,0
+line,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTMzNDM=,https://hackerone.com/line,LINE,True,public_mode,348,usd,False,500,500,0
+greenhouse,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzEy,https://hackerone.com/greenhouse,Greenhouse.io,True,public_mode,145,usd,False,100,250,0
+xilinx_bbp,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzY0NTA=,https://hackerone.com/xilinx_bbp,Xilinx BBP,True,public_mode,6,usd,False,1000,1000,0
+localize,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTUy,https://hackerone.com/localize,Localize,False,public_mode,68,usd,False,,,0
+midpoint_h1c,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzg0Njk=,https://hackerone.com/midpoint_h1c,Midpoint (European Commission - DIGIT),True,public_mode,14,usd,False,560,562,0
+expressionengine,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjY1,https://hackerone.com/expressionengine,ExpressionEngine,False,public_mode,180,usd,False,,,0
+launchdarkly,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDg3NTQ=,https://hackerone.com/launchdarkly,LaunchDarkly,True,public_mode,31,usd,False,150,500,0
+clario,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDM3NDY=,https://hackerone.com/clario,Clario,True,public_mode,112,usd,False,50,50,0
+simple_poll,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDUzOTU=,https://hackerone.com/simple_poll,Simple Poll,False,public_mode,9,usd,False,,,0
+lacework,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTI3MTM=,https://hackerone.com/lacework,Lacework,False,public_mode,5,usd,False,,,0
+smartsheet,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzg0NzA=,https://hackerone.com/smartsheet,Smartsheet,True,public_mode,84,usd,False,350,500,0
+fanfootage,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjIy,https://hackerone.com/fanfootage,FanFootage,False,public_mode,36,usd,False,,,0
+loofah,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjY4MTM=,https://hackerone.com/loofah,Loofah,False,public_mode,4,usd,False,,,0
+jnj_mobile,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDI3NTE=,https://hackerone.com/jnj_mobile,JNJ Mobile,False,public_mode,41,usd,False,,,0
+recargapay,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjM1MDE=,https://hackerone.com/recargapay,RecargaPay,True,public_mode,63,usd,False,300,300,0
+blockfi,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDk3NTY=,https://hackerone.com/blockfi,BlockFi,True,public_mode,26,usd,False,250,250,0
+iovlabs,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjU4NTQ=,https://hackerone.com/iovlabs,IOVLabs,True,public_mode,12,usd,False,1000,1000,0
+duckduckgo,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMTA5OTU=,https://hackerone.com/duckduckgo,DuckDuckGo,False,public_mode,55,usd,False,,,0
+logsnitch,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDYzMzA=,https://hackerone.com/logsnitch,LogSnitch,False,public_mode,4,usd,False,,,0
+oasis_protocol_foundation,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDMyMjU=,https://hackerone.com/oasis_protocol_foundation,Oasis Protocol Foundation,True,public_mode,9,usd,False,50,100,0
+qiwi,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjE1,https://hackerone.com/qiwi,QIWI,True,public_mode,1060,usd,False,100,100,0
+binary,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjcwNg==,https://hackerone.com/binary,Binary.com,True,public_mode,117,usd,False,,,0
+pixiv,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjk0NDY=,https://hackerone.com/pixiv,pixiv,True,public_mode,80,usd,False,200,200,0
+yelp,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTQ1,https://hackerone.com/yelp,Yelp,True,public_mode,310,usd,False,300,500,0
+vercel,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMzkxNzQ=,https://hackerone.com/vercel,Vercel,False,public_mode,57,usd,False,,,0
+grab,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTY1OQ==,https://hackerone.com/grab,Grab,True,public_mode,591,usd,False,250,500,0
+smule,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjM5NzA=,https://hackerone.com/smule,Smule,False,public_mode,80,usd,False,,,0
+reddit,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzU3MTA=,https://hackerone.com/reddit,Reddit,True,public_mode,224,usd,False,250,500,0
+wordpoints,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzYx,https://hackerone.com/wordpoints,WordPoints,True,public_mode,7,usd,False,25,25,0
+hyatt,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNzg4Mw==,https://hackerone.com/hyatt,Hyatt Hotels,True,public_mode,432,usd,False,600,800,0
+coinspot,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDEzOTM=,https://hackerone.com/coinspot,CoinSpot,True,public_mode,33,usd,False,250,250,0
+impresscms,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzgzMDI=,https://hackerone.com/impresscms,ImpressCMS,False,public_mode,27,usd,False,,,0
+aiven_ltd,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDU2NTA=,https://hackerone.com/aiven_ltd,Aiven Ltd,True,public_mode,50,usd,False,500,500,0
+natur_com_gmbh,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDA0ODI=,https://hackerone.com/natur_com_gmbh,Natur.com GmbH,False,public_mode,7,usd,False,,,0
+helium,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTIxNzI=,https://hackerone.com/helium,Helium,True,public_mode,68,usd,False,100,100,0
+thnks,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDMyMzI=,https://hackerone.com/thnks,Thnks,False,public_mode,15,usd,False,,,0
+people_interactive,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDEzNzE=,https://hackerone.com/people_interactive,People Interactive,False,public_mode,27,usd,False,,,0
+chainlink,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzE1Nzc=,https://hackerone.com/chainlink,Chainlink,True,public_mode,43,usd,False,250,500,0
+horizen,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTQ3OTI=,https://hackerone.com/horizen,Horizen,True,public_mode,2,usd,False,,,0
+att,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTIy,https://hackerone.com/att,AT&T,True,public_mode,5241,usd,False,300,300,0
+inflection,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjY1Mw==,https://hackerone.com/inflection,Inflection,True,public_mode,92,usd,False,,,0
+coinspace,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTUyNg==,https://hackerone.com/coinspace,Coin.Space,True,public_mode,9,usd,False,,,0
+quora,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzE1Mg==,https://hackerone.com/quora,Quora,True,public_mode,231,usd,False,200,250,0
+monero,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNzczMQ==,https://hackerone.com/monero,Monero,False,public_mode,37,usd,False,,,0
+rails,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjI=,https://hackerone.com/rails,Ruby on Rails,True,public_mode,53,usd,False,1000,1000,0
+jamieweb,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjQzOTc=,https://hackerone.com/jamieweb,JamieWeb,False,public_mode,,usd,False,,,0
+meredith,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDUyNDY=,https://hackerone.com/meredith,Meredith,False,public_mode,110,usd,False,,,0
+defectdojo,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzMzMTc=,https://hackerone.com/defectdojo,DefectDojo,False,public_mode,16,usd,False,,,0
+udemy,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTU2Ng==,https://hackerone.com/udemy,Udemy,True,public_mode,357,usd,False,100,100,0
+govtech-vdp,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDE2NDg=,https://hackerone.com/govtech-vdp,GovTech VDP,False,public_mode,673,usd,False,,,0
+hackertarget,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzE4MjE=,https://hackerone.com/hackertarget,Hacker Target,,,,,False,,,0
+skyliner,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTQ0Nzg=,https://hackerone.com/skyliner,Skyliner,False,public_mode,,usd,False,,,0
+engel_volkers,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDAyNzY=,https://hackerone.com/engel_volkers,Engel & Völkers Technology GmbH,False,public_mode,57,usd,False,,,0
+usps,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDQxNTA=,https://hackerone.com/usps,USPS - United States Postal Service,False,public_mode,68,usd,False,,,0
+snapchat,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTEz,https://hackerone.com/snapchat,Snapchat,True,public_mode,397,usd,False,250,250,0
+xiaomi,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTYwODM=,https://hackerone.com/xiaomi,Xiaomi,True,public_mode,625,usd,False,80,100,0
+hiro,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTM3OTg=,https://hackerone.com/hiro,Hiro,True,public_mode,33,usd,False,150,150,0
+urbancompany,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzM2NDA=,https://hackerone.com/urbancompany,Urban Company,True,public_mode,121,usd,False,100,100,0
+whisper,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTY5,https://hackerone.com/whisper,Whisper,True,public_mode,51,usd,False,30,30,0
+slack,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNjk=,https://hackerone.com/slack,Slack,True,public_mode,1319,usd,False,500,500,0
+grammarly,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjI3NDY=,https://hackerone.com/grammarly,Grammarly,True,public_mode,169,usd,False,200,400,0
+vanilla,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTc0NDM=,https://hackerone.com/vanilla,Vanilla,True,public_mode,307,usd,False,150,150,0
+cfptime,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzA1MDA=,https://hackerone.com/cfptime,CFP Time,False,public_mode,11,usd,False,,,0
+acronis,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTM0Mjg=,https://hackerone.com/acronis,Acronis,True,public_mode,415,usd,False,100,200,0
+zomato,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjk0Mw==,https://hackerone.com/zomato,Zomato,True,public_mode,918,usd,False,200,250,0
+skale_network,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDUxNTI=,https://hackerone.com/skale_network,SKALE Network,True,public_mode,3,usd,False,250,250,0
+tiktok,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDk3MDg=,https://hackerone.com/tiktok,TikTok,True,public_mode,245,usd,False,339,514,0
+khanacademy,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTM0,https://hackerone.com/khanacademy,Khan Academy,False,public_mode,233,usd,False,,,0
+glasswire,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzc0,https://hackerone.com/glasswire,GlassWire,True,public_mode,62,usd,False,100,100,0
+av,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDgzOTU=,https://hackerone.com/av,Azbuka Vkusa,True,public_mode,36,usd,False,100,100,0
+versioncake,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzA2Nw==,https://hackerone.com/versioncake,Version Cake,False,public_mode,1,usd,False,,,0
+uphabit,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDIwMjM=,https://hackerone.com/uphabit,UpHabit,False,public_mode,8,usd,False,,,0
+deconf_com,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjI5OTg=,https://hackerone.com/deconf_com,Deconf,False,public_mode,2,usd,False,,,0
+blackrock,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDg5NzY=,https://hackerone.com/blackrock,BlackRock,False,public_mode,6,usd,False,,,0
+ips,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTM4Nw==,https://hackerone.com/ips,"Invision Power Services, Inc.",True,public_mode,,usd,False,,,0
+xilinx,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMzY0NDk=,https://hackerone.com/xilinx,Xilinx,False,public_mode,33,usd,False,,,0
+mailru,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNjU=,https://hackerone.com/mailru,Mail.ru,True,public_mode,4556,usd,False,200,300,0
+pyca,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTMzMjM=,https://hackerone.com/pyca,Python Cryptographic Authority,False,public_mode,5,usd,False,,,0
+tube8,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjQyMzE=,https://hackerone.com/tube8,Tube8,True,public_mode,,usd,False,,,0
+mailtime_technology_inc,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDA0ODU=,https://hackerone.com/mailtime_technology_inc,Mailtime Technology Inc.,False,public_mode,3,usd,False,,,0
+relateiq,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNjM=,https://hackerone.com/relateiq,RelateIQ,True,public_mode,110,usd,False,,,0
+rockstargames,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjE0Mw==,https://hackerone.com/rockstargames,Rockstar Games,True,public_mode,,usd,False,,,0
+exodus,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDM4MjU=,https://hackerone.com/exodus,Exodus,True,public_mode,32,usd,False,250,351,0
+recorded-future,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTE5NDA=,https://hackerone.com/recorded-future,Recorded Future,True,public_mode,8,usd,False,300,300,0
+mattermost,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzUyNjg=,https://hackerone.com/mattermost,Mattermost,True,public_mode,90,usd,False,150,150,0
+bitmex,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjQzMjM=,https://hackerone.com/bitmex,BitMEX,True,public_mode,47,usd,False,,,0
+putty_h1c,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzY4NjQ=,https://hackerone.com/putty_h1c,PuTTY (European Commission - DIGIT),True,public_mode,34,usd,False,284,286,0
+github,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTg5NA==,https://hackerone.com/github,GitHub,True,public_mode,871,usd,False,617,617,0
+robinhood,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjU0,https://hackerone.com/robinhood,Robinhood,True,public_mode,92,usd,False,150,300,0
+tronfoundation,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjk5MDQ=,https://hackerone.com/tronfoundation,Tron Foundation,True,public_mode,26,usd,False,1000,3000,0
+faceless,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTMw,https://hackerone.com/faceless,Faceless,False,public_mode,5,usd,False,,,0
+savedroid,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzMyMDM=,https://hackerone.com/savedroid,savedroid,True,public_mode,31,usd,False,,,0
+ycombinator,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjY3NTQ=,https://hackerone.com/ycombinator,Y Combinator,False,public_mode,11,usd,False,,,0
+h1-5411-ctf,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzMzMTQ=,https://hackerone.com/h1-5411-ctf,h1-5411-CTF,False,public_mode,10,usd,False,,,0
+wellsfargo,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNzI0Mg==,https://hackerone.com/wellsfargo,Wells Fargo,False,public_mode,89,usd,False,,,0
+upgrade,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMzE1NzY=,https://hackerone.com/upgrade,Upgrade,False,public_mode,8,usd,False,,,0
+starbucks,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTk4OQ==,https://hackerone.com/starbucks,Starbucks,True,public_mode,1339,usd,False,250,500,0
+keybank,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDEwODk=,https://hackerone.com/keybank,KeyBank,False,public_mode,46,usd,False,,,0
+fastify,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTI0MjM=,https://hackerone.com/fastify,Fastify,False,public_mode,4,usd,False,,,0
+nisc,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMzExMTA=,https://hackerone.com/nisc,NISC-VDP,False,public_mode,5,usd,False,,,0
+fanduel,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzQ3NTM=,https://hackerone.com/fanduel,FanDuel,True,public_mode,,usd,False,300,500,0
+vhx,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTEwNQ==,https://hackerone.com/vhx,VHX,True,public_mode,209,usd,False,250,350,0
+elastic,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjM2MDc=,https://hackerone.com/elastic,Elastic,True,public_mode,169,usd,False,179,250,0
+finra,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDg5ODA=,https://hackerone.com/finra,FINRA Response,False,public_mode,13,usd,False,,,0
+sega,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTM1NDU=,https://hackerone.com/sega,SEGA,False,public_mode,12,usd,False,,,0
+ozon,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDc1MDc=,https://hackerone.com/ozon,Ozon,True,public_mode,181,usd,False,0,0,0
+reverb,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzA5NA==,https://hackerone.com/reverb,Reverb.com,True,public_mode,167,usd,False,100,100,0
+toyota,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMTQ3NDM=,https://hackerone.com/toyota,Toyota,False,public_mode,,usd,False,,,0
+sixt_bbp,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDk3Nzg=,https://hackerone.com/sixt_bbp,Sixt GmbH & Co. Autovermietung KG BBP,True,public_mode,103,usd,False,50,250,0
+laravel,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzE4MjM=,https://hackerone.com/laravel,Laravel,,,,,False,,,0
+jfrog,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDg4MzE=,https://hackerone.com/jfrog,JFrog,False,public_mode,26,usd,False,,,0
+bookfresh,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDMy,https://hackerone.com/bookfresh,Bookfresh,True,public_mode,39,usd,False,,,0
+8x8,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMzI2NjU=,https://hackerone.com/8x8,8x8,False,public_mode,304,usd,False,,,0
+orion_labs,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDE3MTA=,https://hackerone.com/orion_labs,Orion Labs,False,public_mode,,usd,False,,,0
+ohiosecretaryofstate,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTAyODY=,https://hackerone.com/ohiosecretaryofstate,Ohio Secretary of State,False,public_mode,31,usd,False,,,0
+netlify,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjI5NjI=,https://hackerone.com/netlify,Netlify,True,public_mode,88,usd,False,200,250,0
+ridewithvia,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzY5ODA=,https://hackerone.com/ridewithvia,Via,True,public_mode,47,usd,False,200,350,0
+files,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTMwMzE=,https://hackerone.com/files,Files.com,True,public_mode,202,usd,False,200,200,0
+gocd,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTM1NTk=,https://hackerone.com/gocd,GoCD,False,public_mode,48,usd,False,,,0
+amazonvrp,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDQwMDI=,https://hackerone.com/amazonvrp,Amazon Vulnerability Research Program,True,public_mode,353,usd,False,,,0
+moneybird,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTM2MQ==,https://hackerone.com/moneybird,Moneybird,True,public_mode,151,usd,False,50,50,0
+bime,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNzA2OA==,https://hackerone.com/bime,Bime,True,public_mode,,usd,False,,,0
+clubhouse,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTIxMDU=,https://hackerone.com/clubhouse,Clubhouse,True,public_mode,12,usd,False,500,500,0
+top_echelon_software,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDEzNTc=,https://hackerone.com/top_echelon_software,Top Echelon Software,False,public_mode,56,usd,False,,,0
+instacart,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTU1,https://hackerone.com/instacart,Instacart,False,public_mode,209,usd,False,,,0
+aaf,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzI0OTI=,https://hackerone.com/aaf,Alliance of American Football ,True,public_mode,23,usd,False,250,325,0
+mavenlink,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDg=,https://hackerone.com/mavenlink,Mavenlink,True,public_mode,199,usd,False,100,100,0
+revive_adserver,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjM2Nw==,https://hackerone.com/revive_adserver,Revive Adserver,False,public_mode,39,usd,False,,,0
+crypto,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjc3NTk=,https://hackerone.com/crypto,Crypto.com,True,public_mode,121,usd,False,,,0
+kadira,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTk0,https://hackerone.com/kadira,Kadira,False,public_mode,35,usd,False,,,0
+hudapp,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTAwOTA=,https://hackerone.com/hudapp,Hud App,False,public_mode,15,usd,False,,,0
+mariadb,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvODcyNA==,https://hackerone.com/mariadb,MariaDB,False,public_mode,38,usd,False,,,0
+otf,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzE1,https://hackerone.com/otf,Open Technology Fund,True,public_mode,4,usd,False,100,100,0
+bigmonocle,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjIx,https://hackerone.com/bigmonocle,Big Monocle,False,public_mode,9,usd,False,,,0
+maplogin,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTczNw==,https://hackerone.com/maplogin,MapLogin,False,public_mode,22,usd,False,,,0
+square-open-source,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTY0NA==,https://hackerone.com/square-open-source,Square Open Source,True,public_mode,10,usd,False,1000,1000,0
+bcm,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDE4ODE=,https://hackerone.com/bcm,BCM Messenger,True,public_mode,13,usd,False,100,100,0
+ramp_vdp,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDQzMzY=,https://hackerone.com/ramp_vdp,Ramp VDP,False,public_mode,9,usd,False,,,0
+etoro,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMzQ5NTk=,https://hackerone.com/etoro,eToro,False,public_mode,14,usd,False,,,0
+aktia,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTE5Mjg=,https://hackerone.com/aktia,Aktia,False,public_mode,3,usd,False,,,0
+formassembly,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjI0,https://hackerone.com/formassembly,FormAssembly,False,public_mode,197,usd,False,,,0
+who-covid-19-mobile-app,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTE1NDM=,https://hackerone.com/who-covid-19-mobile-app,WHO COVID-19 Mobile App,False,public_mode,7,usd,False,,,0
+legalrobot,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTYwMQ==,https://hackerone.com/legalrobot,Legal Robot,True,public_mode,183,usd,False,20,20,0
+paragonie,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvODUzOQ==,https://hackerone.com/paragonie,Paragon Initiative Enterprises,True,public_mode,17,usd,False,50,50,0
+hannob,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzAyNzg=,https://hackerone.com/hannob,Hanno's projects,False,public_mode,15,usd,False,,,0
+openfolio,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDM4,https://hackerone.com/openfolio,Openfolio,True,public_mode,45,usd,False,,,0
+octopus-energy,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTMyMzY=,https://hackerone.com/octopus-energy,Octopus Energy,False,public_mode,5,usd,False,,,0
+aspen,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvOTUyMA==,https://hackerone.com/aspen,Aspen,False,public_mode,2,usd,False,,,0
+roblox,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTk0OTE=,https://hackerone.com/roblox,Roblox,True,public_mode,383,usd,False,500,750,0
+zilliqa,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTEwMTY=,https://hackerone.com/zilliqa,Zilliqa,True,public_mode,4,usd,False,1200,6000,0
+fig,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjM4NTU=,https://hackerone.com/fig,Fig,False,public_mode,22,usd,False,,,0
+bitwala,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNDEzODA=,https://hackerone.com/bitwala,Bitwala,False,public_mode,,usd,False,,,0
+notepad-plus-plus,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzY3MjE=,https://hackerone.com/notepad-plus-plus,Notepad++,False,public_mode,29,usd,False,,,0
+digitalocean,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDcyMzY=,https://hackerone.com/digitalocean,DigitalOcean,False,public_mode,126,usd,False,,,0
+kartpay,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjI5MjU=,https://hackerone.com/kartpay,Kartpay,False,public_mode,182,usd,False,,,0
+veris,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvOTQwOQ==,https://hackerone.com/veris,Veris,False,public_mode,154,usd,False,,,0
+jimdo,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTAxMTQ=,https://hackerone.com/jimdo,Jimdo GmbH,False,public_mode,22,usd,False,,,0
+judgeme,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTA4NDI=,https://hackerone.com/judgeme,Judge.me ,True,public_mode,38,usd,False,300,300,0
+aig,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDk0MjI=,https://hackerone.com/aig,AIG,False,public_mode,70,usd,False,,,0
+cert,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMjk5,https://hackerone.com/cert,CERT/CC,False,public_mode,34,usd,False,,,0
+sony,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMTY0Mjc=,https://hackerone.com/sony,Sony,False,public_mode,1798,usd,False,,,0
+phpbb,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvODkzNg==,https://hackerone.com/phpbb,phpBB,False,public_mode,14,usd,False,,,0
+agoric-vdp,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMzc0NTE=,https://hackerone.com/agoric-vdp,Agoric,False,public_mode,6,usd,False,,,0
+thisdata,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTU3,https://hackerone.com/thisdata,ThisData,False,public_mode,17,usd,False,,,0
+mapbox,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTM2Ng==,https://hackerone.com/mapbox,Mapbox,True,public_mode,314,usd,False,350,500,0
+gm,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNzIwNQ==,https://hackerone.com/gm,General Motors,False,public_mode,,usd,False,,,0
+dashlane,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNTU0,https://hackerone.com/dashlane,Dashlane,True,public_mode,232,usd,False,150,200,0
+ruby,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNzcyNA==,https://hackerone.com/ruby,Ruby,True,public_mode,39,usd,False,500,500,0
+intel,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvMTQ3ODY=,https://hackerone.com/intel,Intel Corporation,True,public_mode,,usd,False,,,0
+ibm,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMjA2MA==,https://hackerone.com/ibm,IBM,False,public_mode,3026,usd,False,,,0
+c2fo,Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpMZWdhY3kvNzU=,https://hackerone.com/c2fo,C2FO,False,public_mode,37,usd,False,,,0
